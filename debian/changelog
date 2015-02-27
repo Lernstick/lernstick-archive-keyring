@@ -1,0 +1,7 @@
+lernstick-archive-keyring (2015022701) lernstick-8; urgency=medium
+
+  * Create lernstick-archive-keyring package based on debian-archive-keyring.
+  * Add Lernstick archive key.
+
+ -- Gaudenz Steinlin <gaudenz@debian.org>  Fri, 27 Feb 2015 11:00:52 +0100
+
